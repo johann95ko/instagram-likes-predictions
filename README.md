@@ -7,7 +7,7 @@ This repository documents our team's journey in IEOR 135 Data-X
 
 # How to run
 1. Clone the repository to computer
-2. In root folder, run command ```python LinReg.py```. This will take inputs from ```dataxuserinput.csv``` and give a prediction.
+2. In root folder, run command ```python LinReg.py```. This will take inputs from ```/dataxuserinput.csv``` and give a prediction.
 
 # Our Journey
 Previous models that we have tried can be found in ```/models```. We first webscraped with codes from [Instagram-scraper](https://github.com/rarcega/instagram-scraper). We subsequently attemped a naive ML model before deciding on using YOLO-object detection. After trying our models such as Gradient Boosting Ensemble, Random Forest, KNN, Voting etc. , we found that our Linear Regression model works best. 
