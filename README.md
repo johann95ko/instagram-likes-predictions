@@ -13,6 +13,8 @@ This repository documents our team's journey in IEOR 135 Data-X
 Previous models that we have tried can be found in ```/models```. We first webscraped with codes from [Instagram-scraper](https://github.com/rarcega/instagram-scraper). We subsequently attemped a naive ML model before deciding on using YOLO-object detection. After trying our models such as Gradient Boosting Ensemble, Random Forest, KNN, Voting etc. , we found that our Linear Regression model works best. 
 
 # YOLO Object Detection
-![alt text](/photo1.jpeg)
-
+![](/photo1.jpeg | width=100)
+![](/photo2.jpeg | width=100)
+![](/photo3.jpeg | width=100)
+![](/photo4.jpeg | width=100)
 
