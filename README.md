@@ -2,7 +2,7 @@
 This repository documents our team's journey in IEOR 135 Data-X
 
 # Project Aim
-- This project aims to create an ML model consisting of NNs and NLP to analyze Instagram Posts and suggest the best time and day to upload the photo as well as possible hashtags or photo filters to add.
+- This project aims to create a ML model consisting of NNs and NLP to analyze Instagram Posts and suggest the best time and day to upload the photo as well as possible hashtags or photo filters to add.
 - This is targeted towards social media influencers & marketing agencies to maximise positive impressions per post.
 
 # How to run
